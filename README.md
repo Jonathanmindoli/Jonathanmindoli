@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jonathanmindoli
+- 👋 Hi, I’m Jonathan MInda 
 - 👀 I’m interested in become a web developer.
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, JQUERY, BOOTSTRAP.
 - 💞️ I’m looking to collaborate on any project can help me to learn more, and meet more people how can help me on my way to become a developer.
